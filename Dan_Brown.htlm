@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dan Brown</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Dan Brown</h1>
+    <img src="Návštěva_Dana_Browna_v_NK_ČR_17._-_18._2025_07_(cropped).jpg" alt="Image 1">
+    <h2>Presentazione</h2>
+    <p> Daniel Gerhard Brown conosciuto come Dan Brown (Exeter, 22 giugno 1964) è uno scrittore statunitense di thriller.
+        Con più di 200 milioni di copie vendute, è tra gli autori thriller più popolari e di maggior successo del XXI secolo.
+        Le sue opere di maggior successo sono quelle della serie "Robert Langdon".</p>
+    <h2>Saga di Robert Langdon</h2>
+        <ul>   
+            <li>Angeli e demoni (Angels & Demons) (2000)</li>
+            <li>Il codice da Vinci (The Da Vinci Code) (2003)</li>
+            <li>Il simbolo perduto (The Lost Symbol) (2009)</li>
+            <li>Inferno (2013)</li>
+            <li>Origin (2017)</li>
+            <li>L'ultimo segreto (The Secret of Secrets) (2025)</li>
+        </ul>
+    <h2>Altri romanzi</h2>
+        <ul>   
+            <li>187 Men to Avoid. A Survival Guide for the Romantically Frustrated Woman (1995)</li>
+            <li>Crypto (Digital Fortress) (1998)</li>
+            <li>La verità del ghiaccio (Deception Point) (2001)</li>
+            <li>La sinfonia degli animali (Wild Symphony) (2020)</li>
+        </ul>
+    <h2>Successo editoriale</h2>
+        <p>I suoi primi libri, Crypto, Angeli e demoni e La verità del ghiaccio, ebbero un riscontro medio, ma Il codice da Vinci, il suo quinto romanzo (considerando anche l'opera scritta con sua moglie), divenne un bestseller, salendo nel 2003 in cima alla lista dei New York Times Best Seller già nella prima settimana di pubblicazione. Con gli oltre 80 milioni di copie vendute il Codice è da considerarsi tra i libri più conosciuti e venduti al mondo. Sull'onda di questo grande successo sono stati rilanciati i primi libri facendoli comparire nel 2004 nella lista del New York Times nella stessa settimana; nel 2005 Dan Brown entrò nella lista dei Time magazine's 100 most influential people of the year.
+           I personaggi nei libri di Brown portano spesso il nome di persone reali della sua vita. Robert Langdon porta il nome di John Langdon, l'artista che ha creato gli ambigrammi usati per il CD e per il romanzo Angeli e Demoni. Il camerlengo Carlo Ventresca porta il nome dell'amica cartoonista Carla Ventresca. Negli Archivi Vaticani Langdon ricorda il matrimonio di Dick e Connie, due suoi amici, che portano il nome dei genitori dello scrittore. Jonas Faukman, l'editor di Robert Langdon, porta il nome dell'editor di Dan Brown, Jason Kaufman. Brown ha anche detto che altri personaggi sono basati su un libraio del New Hampshire e su un insegnante francese a Exter di nome Andre Vernet che nel Codice Da Vinci era il presidente della banca dove Saunière aveva messo la chiave di volta. Il cardinale Aldo Baggia in Angeli e Demoni porta il nome di Aldo Baggia, insegnante di linguaggi moderni alla Phillips Exeter Academy.
+           Il 14 maggio 2013 in contemporanea in tutto il mondo è uscito Inferno, il sesto romanzo di Dan Brown, che è basato sui segreti della Divina Commedia di Dante Alighieri e ha, per la quarta volta dopo Il simbolo perduto (2009), Robert Langdon come protagonista ed è ambientato a Firenze, Venezia e Istanbul.
+           Il 3 ottobre 2017 è uscito Origin, il settimo romanzo e quinto con Robert Langdon protagonista. È ambientato a Bilbao, Barcellona e Madrid e parla di alcuni misteri scientifici concernenti le origini della vita.
+           Film e televisione
+           Nel 2006 venne prodotto un adattamento cinematografico del Codice Da Vinci, distribuito dalla Columbia Pictures e diretto da Ron Howard. Nel film Tom Hanks interpreta il protagonista Robert Langdon, Audrey Tautou è Sophie Neveu e sir Ian McKellen è sir Leigh Teabing. Il film è stato molto pubblicizzato e ha aperto la 59ª edizione del Festival di Cannes, sebbene abbia ricevuto in generale critiche negative. Fu successivamente inserito nella lista dei peggiori film del 2006 e Ron Howard ricevette una nomination ai Razzie Awards come peggior regista, ma fu anche il secondo film di maggiore incasso dell'anno con 750 milioni di dollari di incasso in tutto il mondo. Dan Brown figura nel film in qualità di produttore esecutivo. Phiano, una delle canzoni che Brown scrisse e cantò, fece parte della colonna sonora del film, composta da Hans Zimmer. Nel film Brown e sua moglie possono essere visti sullo sfondo delle scene iniziali.
+           Angeli e demoni, il film successivo, è uscito il 15 maggio del 2009, sempre diretto da Ron Howard e interpretato da Tom Hanks.
+           Nel 2016, ancora su regia di Howard e con Hanks protagonista, è uscito Inferno.
+           Nel settembre 2021 ha debuttato la serie Il simbolo perduto tratta dall'omonimo libro.</p>
+    
+</body>
+</html>
